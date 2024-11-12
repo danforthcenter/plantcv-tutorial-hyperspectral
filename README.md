@@ -1,5 +1,7 @@
 # Hyperspectral Tutorial
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-hyperspectral/actions/workflows/cs-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-hyperspectral/actions/workflows/cs-tests.yml)
+
 Sample analysis of a hyperspectral image. In this case, a corn kernel. 
 Hyperspectral image is normalized to white and dark reference data, hyperspectral image is masked using the pseudo-rgb, a histogram of spectral reflectance is plotted and two indices are calculated (NDVI and ARI) and pseudocolored images are made.
 
