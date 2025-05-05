@@ -14,5 +14,3 @@ Hyperspectral, spectral index, maize, corn, kernel, VNIR, NDVI, ARI, spectral, P
 ## Citations
 
 Coming Soon
-
-[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-hyperspectral/actions/workflows/cs-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-hyperspectral/actions/workflows/cs-tests.yml)
