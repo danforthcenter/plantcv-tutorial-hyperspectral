@@ -1,6 +1,6 @@
 # Hyperspectral Tutorial
 
-[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-hyperspectral/actions/workflows/cs-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-hyperspectral/actions/workflows/cs-tests.yml)
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-photosynthesis/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-hyperspectral/actions/workflows/ci-tests.yml)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-hyperspectral/HEAD?labpath=index.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-hyperspectral/blob/main/index-Colab.ipynb)
 
